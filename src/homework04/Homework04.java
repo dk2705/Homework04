@@ -8,6 +8,7 @@ public class Homework04 {
     //m2
     //m3
     //gb1
+    //gb2
 
     }
     
